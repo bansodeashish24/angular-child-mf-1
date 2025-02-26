@@ -46,6 +46,9 @@ This is the remote / child app of a larger, micro-frontend based angular app, it
 
  ✅  Support to import custom web components created as Angular Elements. (Using CUSTOM_ELEMENTS_SCHEMA).
 
+## Note:
+This project must be used with a container or shell micro-frontend. The reference for which can be found here [Container Micro-Frontend Project](https://github.com/bansodeashish24/angular-container-mf)
+
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
